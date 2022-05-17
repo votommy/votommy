@@ -13,9 +13,5 @@ I'm Tommy, a front end software developer based in Missouri. I enjoy open source
 👤[LinkedIn](https://www.linkedin.com/in/votommy/)
 
 ## Stats 📊
-<a href="https://github.com/votommy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" />
-</a>
-<a href="https://github.com/votommy/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=votommy&count_private=true&show_icons=true&hide=prs,issues,contribs" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=votommy&count_private=true&show_icons=true&hide=prs,issues,contribs" />
