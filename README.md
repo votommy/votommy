@@ -4,7 +4,7 @@ I'm Tommy, a front end software engineer based in Missouri. I enjoy open source 
 ## Some of my Projects: 🗂
 <img src="https://github.com/votommy/portfolio-website/blob/master/assets/logo.svg" width="50px"> [**Portfolio Website**](https://votommy.com): This site's purpose is to showcase my front end abilities while also displaying my professional portfolio and resume.
 
-<img src="https://github.com/votommy/Tetris-JS/blob/main/img/logo.svg" width="50px"> [**Tetris-JS**](https://tetris.votommy.com): An ongoing passion project to clone Tetris in Javascript. It includes a database for storing scores.
+<img src="https://github.com/votommy/Tetris-JS/blob/main/img/logo.svg" href="https://tetris.votommy.com" width="50px"> [**Tetris-JS**](https://tetris.votommy.com): An ongoing passion project to clone Tetris in Javascript. It includes a database for storing scores.
 
 <img src="https://github.com/votommy/Cat_Eyes/blob/master/logo.png" width="50px"> [**Cat Eyes**](https://www.curseforge.com/minecraft/mc-mods/cat-eyes-night-vision-toggle-mod): A client-side mod for Minecraft: Java Edition to make it easier for players to navigate poorly lit environments.  
 Over 6,500 downloads.
