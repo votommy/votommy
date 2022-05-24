@@ -17,5 +17,5 @@ Over 6,500 downloads.
 👤[LinkedIn](https://www.linkedin.com/in/votommy/)
 
 ## Stats 📊
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" width="35%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=votommy&count_private=true&show_icons=true&hide=prs,issues,contribs" width="45%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" width="37%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=votommy&count_private=true&show_icons=true&hide=prs,issues,contribs" width="50%" />
