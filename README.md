@@ -8,7 +8,7 @@ I'm Tommy, a front end software engineer based in Missouri. I enjoy open source 
 
 <img src="https://github.com/votommy/Tetris-JS/blob/main/img/logo.svg" width="50px"> [**Tetris-JS**](https://tetris.votommy.com): An ongoing passion project to clone Tetris in Javascript. It includes a database for storing scores.
 
-<img src="https://github.com/votommy/FIRE/blob/master/FIRE_Logo.svg" height="55px"> [**#FIRE**](https://fire.votommy.com): A web program that tells you if/when you're able to retire early. As part of the #FIRE movement (Financially Independent, Retire Early)
+<img src="https://github.com/votommy/FIRE/blob/master/FIRE_Logo.svg" height="55px"> [**#FIRE**](https://fire.votommy.com): A web program that tells you if/when you're able to retire early. As part of the #FIRE movement (Financially Independent, Retire Early).
 
 <img src="https://github.com/votommy/Cat_Eyes/blob/master/logo.png" width="50px"> [**Cat Eyes**](https://www.curseforge.com/minecraft/mc-mods/cat-eyes-night-vision-toggle-mod): A client-side mod for Minecraft: Java Edition to make it easier for players to navigate poorly lit environments.  
 Over 10,000 downloads.
