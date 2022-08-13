@@ -6,7 +6,7 @@ I'm Tommy, a front end software engineer based in Missouri. I enjoy open source 
 
 <img src="https://github.com/votommy/Reflex/blob/main/public/logo192.png" width="50px"> [**Open Movie Database**](https://votommy.github.io/Reflex/): My first React.js project. Search any movie title to receive a list of movies from a database.
 
-<img src="https://github.com/votommy/Tetris-JS/blob/main/img/logo.svg" width="50px"> [**Tetris-JS**](https://tetris.votommy.com): An ongoing passion project to clone Tetris in Javascript. It includes a database for storing scores.
+<img src="https://github.com/votommy/Tetris-JS/blob/main/img/logo.svg" width="50px"> [**Tetris-JS**](https://tetris.uxtommy.com): An ongoing passion project to clone Tetris in Javascript. It includes a database for storing scores.
 
 <img src="https://github.com/votommy/FIRE/blob/master/FIRE_Logo.svg" height="55px"> [**#FIRE**](https://fire.votommy.com): A web program that tells you if/when you're able to retire early. As part of the #FIRE movement (Financially Independent, Retire Early).
 
