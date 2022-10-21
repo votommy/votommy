@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm Tommy, a front end software engineer based in Missouri. I enjoy open source projects and making web apps with a focus on user experience.
+I'm Tommy, a front end software engineer based in Las Vegas, NV. I enjoy open source projects and making web apps with a focus on user experience.
 
 ## Some of my Projects: 🗂
 <img src="https://github.com/votommy/portfolio-website/blob/master/assets/logo.svg" width="50px"> [**Portfolio Website**](https://votommy.com): This site's purpose is to showcase my front end abilities while also displaying my professional portfolio and resume.
