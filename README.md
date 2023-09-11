@@ -18,5 +18,4 @@ I'm Tommy, a front end software engineer based in Las Vegas, NV. I enjoy open so
 👤[LinkedIn](https://www.linkedin.com/in/votommy/)
 
 ## Stats 📊
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" width="40%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=votommy&count_private=true&show_icons=true&hide=prs,issues,contribs" width="55%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votommy&layout=compact" />
