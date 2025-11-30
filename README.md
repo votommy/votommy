@@ -4,8 +4,6 @@ I'm Tommy, a front end software engineer based in Las Vegas, NV. I enjoy open so
 ## Some of my Projects: 🗂
 <img src="https://github.com/votommy/portfolio-website/blob/master/assets/logo.svg" width="50px"> [**Portfolio Website**](https://votommy.com): This site's purpose is to showcase my front end abilities while also displaying my professional portfolio and resume.
 
-<img src="https://github.com/votommy/FIRE/blob/master/FIRE_Logo.svg" height="55px"> [**#FIRE**](https://fire.votommy.com): A web program that tells you if/when you're able to retire early. As part of the #FIRE movement (Financially Independent, Retire Early).
-
 <img src="https://github.com/votommy/Reflex/blob/main/public/logo192.png" width="50px"> [**Open Movie Database**](https://votommy.github.io/Reflex/): My first React.js project. Search any movie title to receive a list of movies from a database.
 
 <img src="https://github.com/votommy/TommySans/blob/main/logo.png" width="50px"> [**TommySans**](https://github.com/votommy/TommySans): A fully custom typeface (font) that I made specifically for use with my websites and personal documents. Every character was designed from scratch.
